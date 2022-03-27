@@ -30,9 +30,12 @@
     .footer{
       display: inline-flex;
       width: 96%;
-      height: 15%;
+      height: 17%;
       background: lightgreen;
       margin: 0 0 1% 2%;
+    }
+    .footer:last-child{
+      display: none;
     } 
     
   }
@@ -40,7 +43,7 @@
     .footer{
       display: inline-flex;
       width: 96%;
-      height: 15%;
+      height: 17%;
       background: lightgreen;
       margin: 0 0 1% 2%;
     } 
