@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.contact-info{
+  position: absolute;
+  left: 40%;
+  width: 20%;
+  height: 70%;
+  top: 15%;
+  border: 1px solid black;
+  padding: 10px;
+  display: inline-flex;
+  flex-direction: column;
+  box-shadow: 10px 10px 5px 5px;
+}
+.contact-info > h1{
+  color: rgba(0, 50, 255, 0.7);
+  padding: 5px;
+}
+.contact-info > h3{
+  margin-bottom: 10px;
+}
+.contact-info > p{
+  color: grey;
+}
+.contact-info > img{
+  border-radius: 10px;
+}
