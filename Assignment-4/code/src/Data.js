@@ -1,5 +1,4 @@
-{ 
-    "data":
+export default 
     [
 {"name":"Siva",
 "location":"Bengaluru",
@@ -24,4 +23,4 @@
 }
 
 ]
-}
+
